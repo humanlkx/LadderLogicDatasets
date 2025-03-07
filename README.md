@@ -29,7 +29,7 @@ Ensure that the dataset and label files are properly extracted and available in 
   conda activate yolo_environment
   ```
   and install any required packages manually using `pip` or `conda`.
-
+# Related work has been submitted to Tosem
 ## License
 This project is for research and testing purposes only.
 
